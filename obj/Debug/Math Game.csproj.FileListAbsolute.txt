@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Math Game\bin\Debug\Math Game.exe.config
+C:\Users\HP\source\repos\Math Game\bin\Debug\Math Game.exe
+C:\Users\HP\source\repos\Math Game\bin\Debug\Math Game.pdb
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math Game.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.Form1.resources
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.Properties.Resources.resources
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math Game.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math Game.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math Game.exe
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math Game.pdb
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.ChooseDiff.resources
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.ChooseOperation.resources
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.Game.resources
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.EndGame.resources
+C:\Users\HP\source\repos\Math Game\obj\Debug\Math_Game.SummaryForm.resources
